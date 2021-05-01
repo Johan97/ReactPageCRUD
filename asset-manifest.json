@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ReactPageCRUD/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/ReactPageCRUD/static/js/main.b6ba43a6.chunk.js",
+    "main.js.map": "/ReactPageCRUD/static/js/main.b6ba43a6.chunk.js.map",
+    "runtime-main.js": "/ReactPageCRUD/static/js/runtime-main.7f00f099.js",
+    "runtime-main.js.map": "/ReactPageCRUD/static/js/runtime-main.7f00f099.js.map",
+    "static/css/2.ac82d1d8.chunk.css": "/ReactPageCRUD/static/css/2.ac82d1d8.chunk.css",
+    "static/js/2.6e326d07.chunk.js": "/ReactPageCRUD/static/js/2.6e326d07.chunk.js",
+    "static/js/2.6e326d07.chunk.js.map": "/ReactPageCRUD/static/js/2.6e326d07.chunk.js.map",
+    "static/js/3.2a9596c9.chunk.js": "/ReactPageCRUD/static/js/3.2a9596c9.chunk.js",
+    "static/js/3.2a9596c9.chunk.js.map": "/ReactPageCRUD/static/js/3.2a9596c9.chunk.js.map",
+    "index.html": "/ReactPageCRUD/index.html",
+    "static/css/2.ac82d1d8.chunk.css.map": "/ReactPageCRUD/static/css/2.ac82d1d8.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/ReactPageCRUD/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.6e326d07.chunk.js.LICENSE.txt": "/ReactPageCRUD/static/js/2.6e326d07.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f00f099.js",
+    "static/css/2.ac82d1d8.chunk.css",
+    "static/js/2.6e326d07.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.b6ba43a6.chunk.js"
+  ]
+}
